@@ -11,7 +11,7 @@ while guessed == False:
     if guess in guesses:
         continue
 
-    response = input( "are you" + str(guess)+ "years old?:")
+    response = input( "are you " + str(guess)+ " years old?:")
     if response == 'y' or response == 'Y':
         print(f'haha!  {name} is {guess} years old!')
         guessed = True
