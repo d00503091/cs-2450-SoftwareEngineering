@@ -5,6 +5,7 @@ name = input("Whats your name?")
 
 guesses = []
 guessed = False
+guess_number = 0
 
 while guessed == False:
     guess = random.randint(15,30)
@@ -17,4 +18,8 @@ while guessed == False:
         guessed = True
     else:
         print("rats!")
+        guess_number += 1
         guesses.append(guess)
+
+    if guess_number > 10:
+        break
