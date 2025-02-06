@@ -10,3 +10,12 @@ Date: 1.30.2025 Subjet:SandBox
 Today Peter Fuller came to talk us about Sandbox. It is a way to get your hands on a real project where you create a product and fully make it real and get it to people.
 You are also going to get credit for it while you are building your Start-up company where you can make money out of it while you are a student and create your own job.
 As well you will get in touch with inportant people in the tech world so you can get a job even if your start up attemps didnt work.
+
+Date: 2.6.2025 Subjet: Diagrams.
+Today we learned how to desing diagrams for our programs with draw.io 
+Circles: starts, stops and numbers for connecting to other pages.
+Round boxes: steps, simple processes
+Diamonds: decisision box, yes or no questions
+Box with borders: complex or external processes, represented in detail in another diagram.
+
+
