@@ -1,5 +1,5 @@
 def firstFunction(n):
     for i in range(n):
-        print(f"me como {i} helados")
+        print(f"quiero {i} helados")
 
 firstFunction(3)
