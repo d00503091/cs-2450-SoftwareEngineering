@@ -21,11 +21,14 @@ I have been working on my own on mastering GitHub as I wanted to get my PC and m
 I still strugle when pushing and pulling because I sometimes mistake the branch I am using but I feel pretty good now.
 Chat GPT has been very helpfull to gete stuff to work. In like a week I will recieve my new laptop so I want to have it all working properly. I find GitHub just an amazing tool.
 
-Date 2.11.2025 Subjet: Class Today About Presentations
+Date: 2.11.2025 Subjet: Class Today About Presentations
 Todays class has been super cool. Jeff told us so many good advice and tips to do better presentatins. He has done a magic trick that was crazy where he just made us pay so much attention to what he said because he proved us he knows what he is doing with that and gave a magic vibe to all the info he is giving us. He also told us about color meanings and emphasize stuff with size and location. He also tought us about conventions in presentations, cool powerpoint features and pictures tips that have a big impact in the viewers.
 
 Date: 2.18.25 Subjet: In-class Presentation of Bet Brawl
 Today we presented out slides about our project "Bet Brawl". Our app is all about a revolutionary betting website where we want it to have a competitive perspective so people want to compete to be the best gambler, it also will have a social/chat tab where you can have friends and also a leader board. We were very excited and people loved it. We were the first group in the class presenting so we had all the expectations on us but hopefuly we were prepared and everything went well. Then the rest of the class presented their presentations and it was great.
 
-Date 2.25.2025 Subjet: Missed class
+Date: 2.25.2025 Subjet: Missed class
 Today I got a call from Spain, where I am from, that I could not miss right before class started, so I had to miss class. Instead I am going to talk about my week in other computer science classes. My week started great as Monday I had an exam for CS-2420 and I went very good. I also got the grade of the exam for CS-2100 I did las week Frideay and I got an 14/15 wich is great. Related to CD-2450, this week my team and I are planning to start writing some code about our project Bet Brawl. I really dont have much else to say but that I have to do cleaning checks today as I am an RA at Campus View Suits 1. Next thursday I will make sure to be in class so I can learn and enjoy the lessons from professor Jeff.
+
+Date: 2.27.2025 Subjet: Pair Programming
+Today we learned about pair programming. I did it with Bryson Francis and we worked on two issues. He played the driver role while doing a leaderboard and I guide him as the navigator. For mi yurn in the driver role we tryed to implement a self ban option in our betting project. We regularly changed roles and Bryson helped me a lot with understanding how the TinyDB database works. Chat GPT was helpfull as a resource to check that our code matcheed the format db database work as it is the first time working in something like that for some of us.
