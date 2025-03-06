@@ -32,3 +32,7 @@ Today I got a call from Spain, where I am from, that I could not miss right befo
 
 Date: 2.27.2025 Subjet: Pair Programming
 Today we learned about pair programming. I did it with Bryson Francis and we worked on two issues. He played the driver role while doing a leaderboard and I guide him as the navigator. For mi yurn in the driver role we tryed to implement a self ban option in our betting project. We regularly changed roles and Bryson helped me a lot with understanding how the TinyDB database works. Chat GPT was helpfull as a resource to check that our code matcheed the format db database work as it is the first time working in something like that for some of us.
+
+Date: 3.6.2025 Subject: Working in Self-ban
+Today in class Jeff gave a lecture about thinking about how will we like the experience of the user be and the design of our page. 
+After that, he told us to do a little meeting to talk about it and the rest of the class we spent codeing our project. I am currently working in the self ban aption. For now, i have the button showing up in the page and it also have a function. we still have to implement that when that button is used and you try to re log in it does not let you.
