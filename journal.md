@@ -36,3 +36,7 @@ Today we learned about pair programming. I did it with Bryson Francis and we wor
 Date: 3.6.2025 Subject: Working in Self-ban
 Today in class Jeff gave a lecture about thinking about how will we like the experience of the user be and the design of our page. 
 After that, he told us to do a little meeting to talk about it and the rest of the class we spent codeing our project. I am currently working in the self ban aption. For now, i have the button showing up in the page and it also have a function. we still have to implement that when that button is used and you try to re log in it does not let you.
+
+Date: 2.18.2025 Subject: Software Quality
+The topic for today's class was quality in software. We saw that there is a huge spending just in fixing problems caused by bad quality software. There is a 300.000 jobs gap from companies wanting people to take the responsability to make good software. If you spend a little bit more money at the beggining to improve quality, you gain a huge benefit from it, but you also gotta be carefull not to spend to muhc because there is a point in which you start spending more money and getting less benefit.
+Later, we learned how to make unit tests in our GUI for our project. Then we had some time to make our next assignment.
