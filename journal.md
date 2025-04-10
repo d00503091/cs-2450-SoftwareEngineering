@@ -47,3 +47,6 @@ Later I worked out some questions that I had about the Unit Test assignment and 
 
 Date: 4.3.2025 Subject: Automatization
 today in class I was very tired so there was a bit part of it that unfortunately I fell sleep but I did pay attention for the most part and we takled for the most part about automatization in github actions. Basically what the assignment we whent through was about is making a script in github where when you push your progress to the online repository it runs your unit test from the previous assignment and tells your a report on what stuff when wrong. I think I messed up my unit test files while trying to transfer and merge everything so I got some issues but finally I did got the automization part done and submitted. Now I hav to work on getting all the problems the report is giving me to make my test work again.
+
+Date: 4.8.25 Subject: Software Maintenance
+In today's class we are learning about software maintenance. The first thing we talked about is software scalability. So, if you get to the point where your release some software and it becomes popular, it could get such a big demand that your code is not prepared for it, you have to plan ahead and be prepared for it. We also learned about a neww assignment that we will keep going on thursday as well as working on our BetBrawl project.
