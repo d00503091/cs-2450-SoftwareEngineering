@@ -50,3 +50,8 @@ today in class I was very tired so there was a bit part of it that unfortunately
 
 Date: 4.8.25 Subject: Software Maintenance
 In today's class we are learning about software maintenance. The first thing we talked about is software scalability. So, if you get to the point where your release some software and it becomes popular, it could get such a big demand that your code is not prepared for it, you have to plan ahead and be prepared for it. We also learned about a neww assignment that we will keep going on thursday as well as working on our BetBrawl project.
+
+Date:4.18.2025  Subject:Working day
+Today it was a working day in our class. Jeff wasn't there but luckly all but 1 member of my team showed up and we started working on our final presentation.Bryson Francis and I got it almost done as some other teammates were working in last features implementation and we were very happy that we have adchieve almost everything we wanted to implement in our project. 
+
+Date:  Subject:
