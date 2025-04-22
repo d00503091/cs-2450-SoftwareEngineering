@@ -54,4 +54,5 @@ In today's class we are learning about software maintenance. The first thing we 
 Date:4.18.2025  Subject:Working day
 Today it was a working day in our class. Jeff wasn't there but luckly all but 1 member of my team showed up and we started working on our final presentation.Bryson Francis and I got it almost done as some other teammates were working in last features implementation and we were very happy that we have adchieve almost everything we wanted to implement in our project. 
 
-Date:  Subject:
+Date:4.22.25  Subject: Project Presentation
+Today we finally presented our project Bet Brawl. It went all as expected, our app was working and Jeff loved it. Our presentation was pretty and it had everything he asked for. I think people also liked it because at least they had a laugh while presenting. We also saw the amazing presentation of 3 other groups and on thursday we will see the 2 remaining. I think that is pretty much it for this journal as this should be the last entry. I loved this class, thank you very much.
